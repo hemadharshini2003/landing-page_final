@@ -71,8 +71,8 @@ body {
 }
 
 .signin:hover {
-    color: #ff511c; /* Change text color on hover */
-    text-decoration: underline; /* Underline effect */
+    color: #ff511c; 
+    text-decoration: underline; 
     outline: auto;
 }
 
@@ -82,12 +82,12 @@ body {
     outline: none;
     border: none;
     border-radius: 5px;
-    transition: background-color 0.3s ease, transform 0.3s ease; /* Transition effect */
+    transition: background-color 0.3s ease, transform 0.3s ease; 
 }
 
 .signup:hover {
-    background-color: #e34515; /* Darker shade on hover */
-    transform: scale(1.05); /* Slightly enlarge button */
+    background-color: #e34515; 
+    transform: scale(1.05); 
 }
 
 .content {
